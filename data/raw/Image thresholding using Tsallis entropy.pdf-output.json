@@ -1,0 +1,4766 @@
+[
+    {
+        "element_id": "713d178e06476f3506f4a497dcc26375",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        114.6,
+                        196.5
+                    ],
+                    [
+                        114.6,
+                        345.5
+                    ],
+                    [
+                        269.8,
+                        345.5
+                    ],
+                    [
+                        269.8,
+                        196.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.76576,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "",
+        "type": "Image"
+    },
+    {
+        "element_id": "fa0a08da2226e94ff708b1b9c8458c1a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        469.0,
+                        198.0
+                    ],
+                    [
+                        469.0,
+                        294.0
+                    ],
+                    [
+                        941.0,
+                        294.0
+                    ],
+                    [
+                        941.0,
+                        198.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "Available online at www.sciencedirect.com science @oinzor:",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "cb98e56bc712cedc6678e04920fa1b3f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        470.1,
+                        340.6
+                    ],
+                    [
+                        470.1,
+                        363.3
+                    ],
+                    [
+                        940.1,
+                        363.3
+                    ],
+                    [
+                        940.1,
+                        340.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.56828,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "eb5ce82348dbd172800ed49d8d10a225",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1141.3,
+                        197.9
+                    ],
+                    [
+                        1141.3,
+                        363.7
+                    ],
+                    [
+                        1381.3,
+                        363.7
+                    ],
+                    [
+                        1381.3,
+                        197.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "Pattern Recognition Letters",
+        "type": "Image"
+    },
+    {
+        "element_id": "9e79411d6a4804a85da74a9ed6f7b34a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1080.6,
+                        377.3
+                    ],
+                    [
+                        1080.6,
+                        399.5
+                    ],
+                    [
+                        1382.8,
+                        399.5
+                    ],
+                    [
+                        1382.8,
+                        377.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.856,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "www.elsevier.com/locate/patrec",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "589b1d98fb5ef6d7e87090e87cc9f84f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        330.4,
+                        485.0
+                    ],
+                    [
+                        330.4,
+                        533.3
+                    ],
+                    [
+                        1166.1,
+                        533.3
+                    ],
+                    [
+                        1166.1,
+                        485.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.41141,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "Image thresholding using Tsallis entropy",
+        "type": "Title"
+    },
+    {
+        "element_id": "8656f1967062a1ad10ebeaf74b38ed64",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        212.9,
+                        568.7
+                    ],
+                    [
+                        212.9,
+                        653.7
+                    ],
+                    [
+                        1285.1,
+                        653.7
+                    ],
+                    [
+                        1285.1,
+                        568.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.53127,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "M. Portes de Albuquerque a,*, I.A. Esquef b, A.R. Gesualdi Mello a, M. Portes de Albuquerque b",
+        "type": "Title"
+    },
+    {
+        "element_id": "649d39060d492b61671ed33162e5530f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        176.8,
+                        677.3
+                    ],
+                    [
+                        176.8,
+                        731.4
+                    ],
+                    [
+                        1334.9,
+                        731.4
+                    ],
+                    [
+                        1334.9,
+                        677.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.74071,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "8656f1967062a1ad10ebeaf74b38ed64"
+        },
+        "text": "a Centro Brasileiro de Pesquisas Fsicas, CBPF/MCT, Rua Dr. Xavier Sigaud 150 Urca, Rio de Janeiro 22290180, Brazil b Universidade Estadual do Norte Fluminense, UENF, Av. Alberto Lamego, no. 2000, Horto, Campos, RJ, Brazil",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c321e8384864c9aff492c9a3351f4b7f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        437.3,
+                        752.0
+                    ],
+                    [
+                        437.3,
+                        803.5
+                    ],
+                    [
+                        1061.0,
+                        803.5
+                    ],
+                    [
+                        1061.0,
+                        752.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.43769,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "8656f1967062a1ad10ebeaf74b38ed64"
+        },
+        "text": "Received 19 June 2003; received in revised form 30 October 2003 Available online 15 April 2004",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f3776e7cff08226d247c8287600df413",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        885.2
+                    ],
+                    [
+                        118.1,
+                        910.1
+                    ],
+                    [
+                        209.2,
+                        910.1
+                    ],
+                    [
+                        209.2,
+                        885.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83328,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "Abstract",
+        "type": "Title"
+    },
+    {
+        "element_id": "e5c15042d6bf1b1eece630e87c8640d0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        115.8,
+                        944.5
+                    ],
+                    [
+                        115.8,
+                        1247.7
+                    ],
+                    [
+                        1380.2,
+                        1247.7
+                    ],
+                    [
+                        1380.2,
+                        944.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95173,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "f3776e7cff08226d247c8287600df413"
+        },
+        "text": "Image analysis usually refers to processing of images with the goal of \ufb01nding objects presented in the image. Image segmentation is one of the most critical tasks in automatic image analysis. The nonextensive entropy is a recent development in statistical mechanics and it is a new formalism in which a real quantity q was introduced as parameter for physical systems that present long range interactions, long time memories and fractal-type structures. In image processing, one of the most e\ufb03cient techniques for image segmentation is entropy-based thresholding. This approach uses the Shannon entropy originated from the information theory considering the gray level image histogram as a probability distribution. In this paper, Tsallis entropy is applied as a general entropy formalism for information theory. For the \ufb01rst time image thresholding by nonextensive entropy is proposed regarding the presence of nonadditive information content in some image classes. Some typical results are presented to illustrate the in\ufb02uence of the parameter q in the thresholding.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4949e230137d0b203f02e31d051bdda4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        117.8,
+                        1250.4
+                    ],
+                    [
+                        117.8,
+                        1275.9
+                    ],
+                    [
+                        564.6,
+                        1275.9
+                    ],
+                    [
+                        564.6,
+                        1250.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.67783,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "f3776e7cff08226d247c8287600df413"
+        },
+        "text": "\u00a9 2004 Elsevier B.V. All rights reserved.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a3773e288bb2b9d668c7ff455267f936",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        1311.1
+                    ],
+                    [
+                        118.1,
+                        1333.7
+                    ],
+                    [
+                        790.4,
+                        1333.7
+                    ],
+                    [
+                        790.4,
+                        1311.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85815,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "f3776e7cff08226d247c8287600df413"
+        },
+        "text": "Keywords: Tsallis entropy; Entropic segmentation; Image thresholding",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6244b2b95e70b57bb43e27952607d255",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        117.4,
+                        1419.5
+                    ],
+                    [
+                        117.4,
+                        1447.2
+                    ],
+                    [
+                        292.7,
+                        1447.2
+                    ],
+                    [
+                        292.7,
+                        1419.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87125,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1
+        },
+        "text": "1. Introduction",
+        "type": "Title"
+    },
+    {
+        "element_id": "c36070e0c758a61a29df9f36e00d8159",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        1486.0
+                    ],
+                    [
+                        118.1,
+                        1679.6
+                    ],
+                    [
+                        718.7,
+                        1679.6
+                    ],
+                    [
+                        718.7,
+                        1486.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94659,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "Segmentation consist in subdividing an image into its constituent part and extracting those of interest. Many techniques for global thresholding have been developed over the years to segment images and recognize patterns (e.g. Kapur et al., 1985; Sahoo et al., 1988; Pal, 1996; Li, 1993; Rosin,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0fe1cc66f96f8c156b33aa5e27ed6be2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        1762.6
+                    ],
+                    [
+                        118.1,
+                        1817.2
+                    ],
+                    [
+                        716.6,
+                        1817.2
+                    ],
+                    [
+                        716.6,
+                        1762.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78678,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "*Corresponding author. Tel.: +55-21-25867117; fax: +55-21- 25867426.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4aee3f2e23f36b48df5b7e77182fb861",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        778.3,
+                        1419.5
+                    ],
+                    [
+                        778.3,
+                        1547.2
+                    ],
+                    [
+                        1384.6,
+                        1547.2
+                    ],
+                    [
+                        1384.6,
+                        1419.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91575,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "2001). The principal assumption of the use of glo- bal thresholding as a segmentation technique is that \u2018\u2018objects\u2019\u2019 and \u2018\u2018backgrounds\u2019\u2019 can be distin- guished by inspecting only image gray level values.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "409bfba55da5c5e2d2783094c25eace9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        1552.4
+                    ],
+                    [
+                        782.4,
+                        1845.8
+                    ],
+                    [
+                        1380.8,
+                        1845.8
+                    ],
+                    [
+                        1380.8,
+                        1552.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94776,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "Recent developments of statistical mechanics based on a concept of nonextensive entropy, also called Tsallis entropy, have intensi\ufb01ed the interest of investigating a possible extension of Shannon\u2019s entropy to Information Theory (Tsallis, 2001). This interest appears mainly due to similarities between Shannon and Boltzmann/Gibbs entropy functions. The Tsallis entropy is a new pro- posal in order to generalize the Boltzmann/Gibbs\u2019s",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "53a13917fbad0f8fc2933b87bb446b85",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        148.6,
+                        1821.8
+                    ],
+                    [
+                        148.6,
+                        1844.6
+                    ],
+                    [
+                        715.9,
+                        1844.6
+                    ],
+                    [
+                        715.9,
+                        1821.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.45223,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "links": [
+                {
+                    "start_index": 16,
+                    "text": "mpa @ cbpf . br (",
+                    "url": "mail to: mpa@cbpf.br"
+                }
+            ],
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "E-mail address: mpa@cbpf.br (M. Portes de Albuquerque).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ed1eb349361810ced2effaa2f52d7cf9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        114.8,
+                        1883.6
+                    ],
+                    [
+                        114.8,
+                        1933.4
+                    ],
+                    [
+                        809.1,
+                        1933.4
+                    ],
+                    [
+                        809.1,
+                        1883.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80987,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 1,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "0167-8655/$ - see front matter \u00a9 2004 Elsevier B.V. All rights reserved. doi:10.1016/.patrec.2004.03.003",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b7684a4e7eb6a1cf577aa2756838dd7c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        195.4
+                    ],
+                    [
+                        131.8,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        195.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "1060",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "6690036c1c85987829c4c164e2979051",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        351.4,
+                        195.2
+                    ],
+                    [
+                        351.4,
+                        217.4
+                    ],
+                    [
+                        1167.1,
+                        217.4
+                    ],
+                    [
+                        1167.1,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.41103,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f07aa80c80b57fcaa93dc2c0b81c72c8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        256.7
+                    ],
+                    [
+                        131.8,
+                        417.3
+                    ],
+                    [
+                        732.6,
+                        417.3
+                    ],
+                    [
+                        732.6,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94457,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "traditional entropy to nonextensive physical sys- tems. In this theory a new parameter q is intro- duced as a real number associated with the nonextensivity of the system, and it is system dependent.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4fb1d42b106e92b159e1be164e847aa0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        422.8
+                    ],
+                    [
+                        131.8,
+                        1048.1
+                    ],
+                    [
+                        733.1,
+                        1048.1
+                    ],
+                    [
+                        733.1,
+                        422.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94503,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "This paper shows the application of Tsallis en- tropy as a new method of image segmentation. Our work is based on the entropic thresholding technique of Kapur et al. (1985). We use Tsallis entropy form due to the presence of nonadditive information in some classes of images. The method substitutes a purely additive expression found in Kapur\u2019s original method for a pseudo-additive expression de\ufb01ned by Tsallis theory for statistical independent systems. The paper is organized as follows: Section 2 presents some fundamental concepts of nonextensive systems and Tsallis en- tropy; Section 3 describes the mathematical set- tings of the threshold selection for the proposed method; Section 4 gives some examples of thres- holding using the proposed method and discusses the in\ufb02uence of the nonextensive parameter q in the image segmentation and Section 5 is dedicated to presenting some concluding remarks.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dd5916dfbdfa3e2dfc4bc566d36a450c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.1,
+                        255.6
+                    ],
+                    [
+                        795.1,
+                        648.6
+                    ],
+                    [
+                        1399.8,
+                        648.6
+                    ],
+                    [
+                        1399.8,
+                        255.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94963,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "6244b2b95e70b57bb43e27952607d255"
+        },
+        "text": "This formalism has been shown to be restricted to the domain of validity of the Boltzmann\u2014Gibbs\u2014 Shannon (BGS) statistics. These statistics seem to describe nature when the effective microscopic interactions and the microscopic memory are short ranged. Generally, systems that obey BGS statis- tics are called extensive systems. If we consider that a physical system can be decomposed into two statistical independent subsystems 4 and B, the probability of the composite system is p**? = p*- p\u00ae, it has been verified that the Shannon en- tropy has the extensive property (additivity):",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f3fb92eb575e71572dfadb2c3be2da46",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        666.4
+                    ],
+                    [
+                        795.9,
+                        697.6
+                    ],
+                    [
+                        1397.8,
+                        697.6
+                    ],
+                    [
+                        1397.8,
+                        666.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.62307,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "S\u00f0A \u00fe B\u00de \u00bc S\u00f0A\u00de \u00fe S\u00f0B\u00de \u00f02\u00de",
+        "type": "Formula"
+    },
+    {
+        "element_id": "05aa8fde715ca067433d8f98db7f18d3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        715.0
+                    ],
+                    [
+                        795.9,
+                        1041.5
+                    ],
+                    [
+                        1398.6,
+                        1041.5
+                    ],
+                    [
+                        1398.6,
+                        715.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9482,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "However, for a certain class of physical systems, which entail long-range interactions, long time memory and fractal-type structures, some kind of extension appears to become necessary. Inspired by multifractals concepts, Tsallis has proposed a generalization of the BGS statistics. The Tsallis statistics is currently considered useful in describ- ing the thermostatistical properties of nonexten- sive systems, and it is based on a generalized entropic form,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7d65a62fa67102b2fbb4a40571c36e09",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        857.0,
+                        1047.8
+                    ],
+                    [
+                        857.0,
+                        1085.7
+                    ],
+                    [
+                        941.6,
+                        1085.7
+                    ],
+                    [
+                        941.6,
+                        1047.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "Ke",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "32c4351eb9ac87702adb4778f04c1769",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        792.4,
+                        1050.8
+                    ],
+                    [
+                        792.4,
+                        1123.5
+                    ],
+                    [
+                        1396.3,
+                        1123.5
+                    ],
+                    [
+                        1396.3,
+                        1050.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.838,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "Ke q 5-12 EL) Q) q-1",
+        "type": "Formula"
+    },
+    {
+        "element_id": "493fb62375ec41ea2ee3bb1430d7cf2d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        130.9,
+                        1128.0
+                    ],
+                    [
+                        130.9,
+                        1155.7
+                    ],
+                    [
+                        413.3,
+                        1155.7
+                    ],
+                    [
+                        413.3,
+                        1128.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83194,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "2. Nonextensive entropy",
+        "type": "Title"
+    },
+    {
+        "element_id": "23c0c7f5816eadf37e124e0f4159de37",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        1194.5
+                    ],
+                    [
+                        131.8,
+                        1521.3
+                    ],
+                    [
+                        734.3,
+                        1521.3
+                    ],
+                    [
+                        734.3,
+                        1194.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95459,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "493fb62375ec41ea2ee3bb1430d7cf2d"
+        },
+        "text": "From a conventional point of view, the entropy is a basic thermodynamic concept that is associ- ated with the order of irreversible processes in the universe. Physically it can be associated with the amount of disorder in a physical system. Shannon rede\ufb01ned the entropy concept of Boltzmann/Gibbs as a measure of uncertainty regarding the infor- mation content of a system. He de\ufb01ned an ex- pression for measuring quantitatively the amount of information produced by a process.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3f12854f345850de0eb3844bcc4aa001",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        1133.4
+                    ],
+                    [
+                        795.9,
+                        1394.4
+                    ],
+                    [
+                        1395.6,
+                        1394.4
+                    ],
+                    [
+                        1395.6,
+                        1133.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94412,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2,
+            "parent_id": "493fb62375ec41ea2ee3bb1430d7cf2d"
+        },
+        "text": "where k is the total number of possibilities of the system and the real number q is an entropic index that characterizes the degree of nonextensivity. This expression meets the BGS entropy in the limit q ! 1. The Tsallis entropy is nonextensive in such a way that for a statistical independent system, the entropy of the system is de\ufb01ned by the following pseudo additivity entropic rule",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e488a81363e8c29597029031b9198c65",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        1411.8
+                    ],
+                    [
+                        795.9,
+                        1476.6
+                    ],
+                    [
+                        1390.0,
+                        1476.6
+                    ],
+                    [
+                        1390.0,
+                        1411.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.6093,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "S,(A + B) = S,(A) + S,(B) + (1 \u2014 \u00a2) - S,(A) - S,(B)",
+        "type": "Formula"
+    },
+    {
+        "element_id": "2a555e2fa16e2cff2b027c7b0865d1f6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        130.4,
+                        1526.5
+                    ],
+                    [
+                        130.4,
+                        1720.3
+                    ],
+                    [
+                        732.2,
+                        1720.3
+                    ],
+                    [
+                        732.2,
+                        1526.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95047,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "The entropy of a discrete source is often ob- tained from the probability distribution, where p \u00bc fpig is the probability of \ufb01nding the system in each possible state i. Therefore, 06pi 61 and Pk i\u00bc1pi \u00bc 1, where k is the total number of states. The Shannon entropy may be described as",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3ac507e37a2d1ed1efc26e15cd8cc0b8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.3,
+                        1505.6
+                    ],
+                    [
+                        795.3,
+                        1602.0
+                    ],
+                    [
+                        1397.3,
+                        1602.0
+                    ],
+                    [
+                        1397.3,
+                        1505.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92657,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "Considering Sq P0 in the pseudo-additive for- malism of Eq. (4), three entropic classi\ufb01cations are de\ufb01ned as follows",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a4bb8382685ebcae89e87241a7892f02",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        1638.4
+                    ],
+                    [
+                        795.9,
+                        1703.6
+                    ],
+                    [
+                        1185.4,
+                        1703.6
+                    ],
+                    [
+                        1185.4,
+                        1638.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.6972,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "\u2022 Subextensive entropy \u00f0q < 1\u00de Sq\u00f0A \u00fe B\u00de < Sq\u00f0A\u00de \u00fe Sq\u00f0B\u00de",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "847b63114c8a545c2c47568912f44114",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        1705.2
+                    ],
+                    [
+                        795.9,
+                        1769.9
+                    ],
+                    [
+                        1141.2,
+                        1769.9
+                    ],
+                    [
+                        1141.2,
+                        1705.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.38788,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "\u2022 Extensive entropy \u00f0q \u00bc 1\u00de Sq\u00f0A \u00fe B\u00de \u00bc Sq\u00f0A\u00de \u00fe Sq\u00f0B\u00de",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1c7f6ec8124b9f763b18972563e3e250",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        123.9,
+                        1763.7
+                    ],
+                    [
+                        123.9,
+                        1843.8
+                    ],
+                    [
+                        731.9,
+                        1843.8
+                    ],
+                    [
+                        731.9,
+                        1763.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.82781,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "S=-Sopiln(p,) (1) i=l",
+        "type": "Formula"
+    },
+    {
+        "element_id": "03070dcd16348c73545a11a92bb3e8b5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        1773.4
+                    ],
+                    [
+                        795.9,
+                        1836.4
+                    ],
+                    [
+                        1201.8,
+                        1836.4
+                    ],
+                    [
+                        1201.8,
+                        1773.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.50384,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "\u2022 Superextensive entropy \u00f0q > 1\u00de Sq\u00f0A \u00fe B\u00de > Sq\u00f0A\u00de \u00fe Sq\u00f0B\u00de",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "1fdc9416be8c9fc7c30bd9962aac388d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1358.4,
+                        1459.4
+                    ],
+                    [
+                        1358.4,
+                        1488.1
+                    ],
+                    [
+                        1393.6,
+                        1488.1
+                    ],
+                    [
+                        1393.6,
+                        1459.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 2
+        },
+        "text": "\u00f04\u00de",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "dd466f708564e4b85dbc47abff53d345",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        346.2,
+                        195.2
+                    ],
+                    [
+                        346.2,
+                        217.4
+                    ],
+                    [
+                        1147.7,
+                        217.4
+                    ],
+                    [
+                        1147.7,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.73963,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "142ac822c9e0d52a4d38d3ad7f84afcc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        256.7
+                    ],
+                    [
+                        118.1,
+                        583.3
+                    ],
+                    [
+                        717.6,
+                        583.3
+                    ],
+                    [
+                        717.6,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94988,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "Taking into account similarities between Boltzmann/Gibbs and Shannon entropy forms, it is interesting to investigate the possibility of gen- eralization of the Shannon\u2019s entropy to the Information Theory, as recently shown by Ya- mano (2001). This generalization can be extended to image processing areas, speci\ufb01cally for the image segmentation, applying Tsallis entropy to threshold images, which have nonadditive infor- mation content.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ef8a136846ee3650426ef6aa1560b501",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        859.5,
+                        249.1
+                    ],
+                    [
+                        859.5,
+                        279.9
+                    ],
+                    [
+                        901.1,
+                        279.9
+                    ],
+                    [
+                        901.1,
+                        249.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pt\u00fe1",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "630c7896768ac1b355b6dc7970177e00",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        919.2,
+                        249.1
+                    ],
+                    [
+                        919.2,
+                        279.9
+                    ],
+                    [
+                        960.8,
+                        279.9
+                    ],
+                    [
+                        960.8,
+                        249.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pt\u00fe2",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0ca4619cf83dadccb5d332ac4cc7a8f6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1031.0,
+                        249.1
+                    ],
+                    [
+                        1031.0,
+                        279.1
+                    ],
+                    [
+                        1052.4,
+                        279.1
+                    ],
+                    [
+                        1052.4,
+                        249.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pk",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "a6dd57d179fa459c774a10d3dfe637fc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        774.6,
+                        258.0
+                    ],
+                    [
+                        774.6,
+                        314.6
+                    ],
+                    [
+                        1388.9,
+                        314.6
+                    ],
+                    [
+                        1388.9,
+                        258.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83052,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pB : PB ; PB ;...; PB \u00f06\u00de",
+        "type": "Formula"
+    },
+    {
+        "element_id": "a32b79920f114321a926fd8e274c4001",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        327.2
+                    ],
+                    [
+                        782.4,
+                        365.3
+                    ],
+                    [
+                        965.2,
+                        365.3
+                    ],
+                    [
+                        965.2,
+                        327.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "where PA \u00bc Pt",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fd6178b2b496a6a7f3db2abdae880d3d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        960.2,
+                        327.2
+                    ],
+                    [
+                        960.2,
+                        370.6
+                    ],
+                    [
+                        1181.3,
+                        370.6
+                    ],
+                    [
+                        1181.3,
+                        327.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "i\u00bc1 pi and PB \u00bc Pk",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fc3814ad1dff995db8427df702d4b15b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        781.9,
+                        336.3
+                    ],
+                    [
+                        781.9,
+                        370.6
+                    ],
+                    [
+                        1253.8,
+                        370.6
+                    ],
+                    [
+                        1253.8,
+                        336.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.81517,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "i\u00bct\u00fe1 pi.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "564701afbb6d2d2475df4dac4a9024f4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        779.1,
+                        369.8
+                    ],
+                    [
+                        779.1,
+                        430.7
+                    ],
+                    [
+                        1383.6,
+                        430.7
+                    ],
+                    [
+                        1383.6,
+                        369.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89852,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "The a priori Tsallis entropy for each distribu- tion is de\ufb01ned as",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e90dd718d1720ae642de2b026f032f3e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        775.7,
+                        446.2
+                    ],
+                    [
+                        775.7,
+                        533.9
+                    ],
+                    [
+                        1384.3,
+                        533.9
+                    ],
+                    [
+                        1384.3,
+                        446.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8619,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "SA(t) = 7 i (7)",
+        "type": "Formula"
+    },
+    {
+        "element_id": "5bf8379957f4dc70d8f5f2f2da98636d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        116.6,
+                        647.4
+                    ],
+                    [
+                        116.6,
+                        675.1
+                    ],
+                    [
+                        410.9,
+                        675.1
+                    ],
+                    [
+                        410.9,
+                        647.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83834,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "3. Entropic segmentation",
+        "type": "Title"
+    },
+    {
+        "element_id": "57eba00dfa99aea4cec885be722fcc89",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        778.0,
+                        564.2
+                    ],
+                    [
+                        778.0,
+                        670.1
+                    ],
+                    [
+                        1385.2,
+                        670.1
+                    ],
+                    [
+                        1385.2,
+                        564.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84804,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "1- (4% SO = aA (8)",
+        "type": "Formula"
+    },
+    {
+        "element_id": "67c12a9b41d5c871860defaf244d5261",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        713.7
+                    ],
+                    [
+                        118.1,
+                        1339.2
+                    ],
+                    [
+                        721.4,
+                        1339.2
+                    ],
+                    [
+                        721.4,
+                        713.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94124,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "In image processing, the most commonly used method to distinguish objects from background is \u2018\u2018thresholding\u2019\u2019. Over the years, many methods of automatic threshold selection based on optimiza- tion of some criterion function have been pro- posed. Pun (1981) assumed that an image is the outcome of a symbol source. Thus, in order to select the threshold he maximized an upper bound of the total a posteriori entropy of the binary image. Kapur et al. (1985) assumed two proba- bility distributions, one for the object and the other for the background. Next they maximized the total entropy of the partitioned image in order to obtain the threshold level. Abutaleb et al. (1989) extended the method using two-dimensional entropies. Li (1993) and Pal (1996) used the di- rected divergence of Kullback for the selection of the threshold, and Sahoo et al. (1988) used the Reiny entropy model for image thresholding.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "65b384e085d5aa70c5828d5ea1523501",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        684.4
+                    ],
+                    [
+                        782.4,
+                        878.5
+                    ],
+                    [
+                        1381.3,
+                        878.5
+                    ],
+                    [
+                        1381.3,
+                        684.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95003,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "The Tsallis entropy Sq\u00f0t\u00de is parametrically depen- dent upon the threshold value t for the foreground and background. It is formulated as the sum of each entropy, allowing the pseudo-additive prop- erty for statistically independent systems, de\ufb01ned in Eq. (4).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "100ea0f6eff2c5ed9649b10ce3ce76d1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        892.5
+                    ],
+                    [
+                        782.4,
+                        1091.7
+                    ],
+                    [
+                        1386.0,
+                        1091.7
+                    ],
+                    [
+                        1386.0,
+                        892.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.88803,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "S,(t) = Pat Pa) I- Zot (ps)! +(L\u2014q)- _ Sah . 1- van (ps) (9)",
+        "type": "Formula"
+    },
+    {
+        "element_id": "95e68b12ea7a5e753343305a889160f3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        780.8,
+                        1113.5
+                    ],
+                    [
+                        780.8,
+                        1274.8
+                    ],
+                    [
+                        1381.4,
+                        1274.8
+                    ],
+                    [
+                        1381.4,
+                        1113.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94271,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "We maximize the information measure between the two classes (object and background). When Sq\u00f0t\u00de is maximized, the luminance level t is con- sidered to be the optimum threshold value. This can be achieved with a cheap computational e\ufb00ort.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a69d201522107d5ab39f7f1286ddef76",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        1344.7
+                    ],
+                    [
+                        118.1,
+                        1538.4
+                    ],
+                    [
+                        722.4,
+                        1538.4
+                    ],
+                    [
+                        722.4,
+                        1344.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95173,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "In this section, a new thresholding method will be proposed based also on the entropy concept. This method is similar to the maximum entropy sum method of Kapur et al.; however, we used the nonextensive Tsallis entropy concepts customized for information theory.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "106dd3f2b65216b63708b944fc352437",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        1543.7
+                    ],
+                    [
+                        118.1,
+                        1771.0
+                    ],
+                    [
+                        722.6,
+                        1771.0
+                    ],
+                    [
+                        722.6,
+                        1543.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94937,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "For an image with k gray-levels, let pi \u00bc p1;p2;...;pk be the probability distribution of the levels. From this distribution we derive two probability distributions, one for the object (class A) and another for the background (class B). The probability distributions of the object and back- ground classes, A and B, are given by",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "eec73938a5e2d5792e356bb7057488d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        201.7,
+                        1780.1
+                    ],
+                    [
+                        201.7,
+                        1810.0
+                    ],
+                    [
+                        224.0,
+                        1810.0
+                    ],
+                    [
+                        224.0,
+                        1780.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "p1",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "2bfab172f5ea595c1da1cdf95b145812",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        251.0,
+                        1780.1
+                    ],
+                    [
+                        251.0,
+                        1810.0
+                    ],
+                    [
+                        273.2,
+                        1810.0
+                    ],
+                    [
+                        273.2,
+                        1780.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "p2",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "dc00ea229c3e24099ba40bbc542fc7e7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        350.6,
+                        1780.1
+                    ],
+                    [
+                        350.6,
+                        1809.9
+                    ],
+                    [
+                        368.8,
+                        1809.9
+                    ],
+                    [
+                        368.8,
+                        1780.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pt",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "6183709636bfff21c110de818222408b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        116.2,
+                        1790.2
+                    ],
+                    [
+                        116.2,
+                        1845.6
+                    ],
+                    [
+                        720.5,
+                        1845.6
+                    ],
+                    [
+                        720.5,
+                        1790.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83933,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "pA : PA ; PA ;...; PA \u00f05\u00de",
+        "type": "Formula"
+    },
+    {
+        "element_id": "cc9af2a325a3d31a1f64467771b7d6f1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        942.7,
+                        1279.8
+                    ],
+                    [
+                        942.7,
+                        1307.4
+                    ],
+                    [
+                        955.6,
+                        1307.4
+                    ],
+                    [
+                        955.6,
+                        1279.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "h",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "32d4d71e372ba5d50e62c4c9513a2ab3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        781.6,
+                        1290.5
+                    ],
+                    [
+                        781.6,
+                        1380.1
+                    ],
+                    [
+                        1379.9,
+                        1380.1
+                    ],
+                    [
+                        1379.9,
+                        1290.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.79895,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "fopt = argmax (sp) + SB(t)+(1\u2014\u00a2) -SA(2) -SR()| (10)",
+        "type": "Formula"
+    },
+    {
+        "element_id": "596c9566eb96ed4123b2ed8da54d23f5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        781.9,
+                        1452.4
+                    ],
+                    [
+                        781.9,
+                        1480.1
+                    ],
+                    [
+                        1054.3,
+                        1480.1
+                    ],
+                    [
+                        1054.3,
+                        1452.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84704,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3
+        },
+        "text": "4. Experimental results",
+        "type": "Title"
+    },
+    {
+        "element_id": "b39066b20ced1cb97cf5bf7cbef89be1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        780.6,
+                        1518.3
+                    ],
+                    [
+                        780.6,
+                        1845.8
+                    ],
+                    [
+                        1380.1,
+                        1845.8
+                    ],
+                    [
+                        1380.1,
+                        1518.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95381,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "In order to analyze this segmentation technique we simulate di\ufb00erent histograms describing the \u2018\u2018object\u2019\u2019 and \u2018\u2018background\u2019\u2019 by two gaussian peaks. As presented previously, the segmentation process looks for a luminance value t that sepa- rates these two regions. This procedure allows an evaluation of the segmentation result as function of amplitude, position and width of the peaks in the histograms. All these parameters have a sig- ni\ufb01cant role in the characterization of the image,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7d2bd030a3658200b2074cfb5512b7fa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1335.9,
+                        195.4
+                    ],
+                    [
+                        1335.9,
+                        217.5
+                    ],
+                    [
+                        1380.2,
+                        217.5
+                    ],
+                    [
+                        1380.2,
+                        195.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "1061",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "c84a3c3a02e68a2f2dd3fa27421b9d02",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1370.4,
+                        1279.8
+                    ],
+                    [
+                        1370.4,
+                        1307.4
+                    ],
+                    [
+                        1383.3,
+                        1307.4
+                    ],
+                    [
+                        1383.3,
+                        1279.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 3,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "i",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "74c5031ad9939a0528b12ae9f72f1041",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        195.4
+                    ],
+                    [
+                        131.8,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        195.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "1062",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d782cb217ae0cc883a4f827d07f6e90b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        352.0,
+                        195.2
+                    ],
+                    [
+                        352.0,
+                        217.4
+                    ],
+                    [
+                        1167.8,
+                        217.4
+                    ],
+                    [
+                        1167.8,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.34236,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "9de34513b65120bbf7ecb331237821a0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        256.7
+                    ],
+                    [
+                        131.8,
+                        384.1
+                    ],
+                    [
+                        734.1,
+                        384.1
+                    ],
+                    [
+                        734.1,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93214,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "as for example: homogeneity of the scene illumi- nation (gray level contrast), image and object size, \u2018\u2018object\u2019\u2019 and \u2018\u2018background\u2019\u2019 texture, noisy images, etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "293b14c9d165035c7d3fffdf3e6cf03f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        389.6
+                    ],
+                    [
+                        131.8,
+                        550.3
+                    ],
+                    [
+                        733.3,
+                        550.3
+                    ],
+                    [
+                        733.3,
+                        389.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94098,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "Starting from two well de\ufb01ned gaussian peaks we classify four simulation cases. In each one we analyze the threshold level for 256 di\ufb00erent histo- grams. An iterative procedure changes the parameter of the right side peak until it overlaps",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "209c464cf0adea5e4caf446a13e229f2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.5,
+                        256.7
+                    ],
+                    [
+                        795.5,
+                        550.0
+                    ],
+                    [
+                        1399.3,
+                        550.0
+                    ],
+                    [
+                        1399.3,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95251,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4,
+            "parent_id": "596c9566eb96ed4123b2ed8da54d23f5"
+        },
+        "text": "the left one. In each step we calculate the entropic segmentation threshold t. These four testing pro- cesses are presented in Fig. 1: (a) peak position; (b) peak width; (c) peak height and (d) noisy image. The purpose of these tests is to check how good the nonextensive entropic segmentation is for dif- ferent classes of images, and also to analyze the in\ufb02uence of Tsallis parameter q in the segmenta- tion result.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "073b9ba3fe799ddc3caf96a361675b7f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        284.0,
+                        617.1
+                    ],
+                    [
+                        284.0,
+                        1096.6
+                    ],
+                    [
+                        1233.2,
+                        1096.6
+                    ],
+                    [
+                        1233.2,
+                        617.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9119,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4
+        },
+        "text": "t0  t1  t0  t1  p1(64,16)  p2(192,16)  p1(64,16) p2(100,16)  p1(64,16)  p2(192,4)  p1(64,16)  p2(192,64)  (a)  (b)  t0  t1  t0  t1  A1 p1(64,16) A2 p2(192,16)  A1 p1(64,16) A2 p2(192,16)  A2 p2(192,16)  A2 p2(192,64)  A1 p1(64,16)  A1 p1(64,16)  (c)  (d) ",
+        "type": "Image"
+    },
+    {
+        "element_id": "7930dad98e66ae637d23e02ad073e2b4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.2,
+                        1123.6
+                    ],
+                    [
+                        131.2,
+                        1173.4
+                    ],
+                    [
+                        1404.9,
+                        1173.4
+                    ],
+                    [
+                        1404.9,
+                        1123.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91394,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4
+        },
+        "text": "Fig. 1. Four gray level segmentation testing schemes: (a) peak position; (b) peak width; (c) peak height and (d) noisy image. We de\ufb01ne a position and a width for each peak.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "067c59dcb8853028fcfed2d090ac8c81",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        218.4,
+                        1259.0
+                    ],
+                    [
+                        218.4,
+                        1796.6
+                    ],
+                    [
+                        1308.4,
+                        1796.6
+                    ],
+                    [
+                        1308.4,
+                        1259.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4
+        },
+        "text": "0.2 04 0.6 08 1.0 1.2 a) case 1 (b) case 2 50 200 255 0 50 100 150 200 255 0 (c) case 3 (d) case 4",
+        "type": "Image"
+    },
+    {
+        "element_id": "b50dc0ad6475d8cfaaa8737d135dc2db",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        330.9,
+                        1821.7
+                    ],
+                    [
+                        330.9,
+                        1844.8
+                    ],
+                    [
+                        1189.8,
+                        1844.8
+                    ],
+                    [
+                        1189.8,
+                        1821.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.7897,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 4
+        },
+        "text": "Fig. 2. Results of segmentation for simulations cases: q \u00bc 0:25; 0.80; 1.00; 1.50 and 4.00.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "eeebe63aa717efc8ef38648e9d5ed324",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        345.3,
+                        195.2
+                    ],
+                    [
+                        345.3,
+                        217.4
+                    ],
+                    [
+                        1223.7,
+                        217.4
+                    ],
+                    [
+                        1223.7,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.5153,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "Header"
+    },
+    {
+        "element_id": "096800f565c004462c4c94c020741ad4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        255.4
+                    ],
+                    [
+                        118.1,
+                        283.1
+                    ],
+                    [
+                        381.2,
+                        283.1
+                    ],
+                    [
+                        381.2,
+                        255.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.5231,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5,
+            "parent_id": "eeebe63aa717efc8ef38648e9d5ed324"
+        },
+        "text": "4.1. Simulation results",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "30baf789c45bcb5a0011a65cd04a8738",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        322.1
+                    ],
+                    [
+                        118.1,
+                        416.6
+                    ],
+                    [
+                        718.0,
+                        416.6
+                    ],
+                    [
+                        718.0,
+                        322.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92585,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5,
+            "parent_id": "eeebe63aa717efc8ef38648e9d5ed324"
+        },
+        "text": "The result of all simulation cases is shown on Fig. 2. For all proposed cases we present four contour plots for \ufb01ve q values. In each contour",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b48042c8bf1bb4ba3acd830b1c0e5cc2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        777.3,
+                        256.7
+                    ],
+                    [
+                        777.3,
+                        417.8
+                    ],
+                    [
+                        1380.0,
+                        417.8
+                    ],
+                    [
+                        1380.0,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93996,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5,
+            "parent_id": "eeebe63aa717efc8ef38648e9d5ed324"
+        },
+        "text": "plot we show 256 simulated histograms used to generate the entropic curve, Eq. (4). The threshold level is obtained at the maximum argument of each entropic curve, see Eq. (10). Thus one can follow the \u2018\u2018trajectory\u2019\u2019 of the thresholding point at these",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c365936fe44e6b9d1f4a3a114b6f363b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        228.3,
+                        479.6
+                    ],
+                    [
+                        228.3,
+                        788.4
+                    ],
+                    [
+                        1264.3,
+                        788.4
+                    ],
+                    [
+                        1264.3,
+                        479.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "Classic Nonextensive Histogram Entropic Segmentation _Entropic Segmentation t=132 t=147",
+        "type": "Image"
+    },
+    {
+        "element_id": "915ff08726b56f7e22e11cd0a6f2f2cc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        117.0,
+                        813.7
+                    ],
+                    [
+                        117.0,
+                        864.4
+                    ],
+                    [
+                        1380.2,
+                        864.4
+                    ],
+                    [
+                        1380.2,
+                        813.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90433,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "Fig. 3. Example of entropic segmentation for mammography image with an inhomogeneous spatial noise. Two image segmentation results are presented for q \u00bc 1:0 (classic entropic segmentation) and q \u00bc 4:0.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "eb442aa410c66358dd7a8429f1969ab3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        377.9,
+                        940.7
+                    ],
+                    [
+                        377.9,
+                        1796.7
+                    ],
+                    [
+                        1119.9,
+                        1796.7
+                    ],
+                    [
+                        1119.9,
+                        940.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "Nonextensive Entropy Segmentation 100 200 300 Original Image 40 100 200 300 i t=31 \u2014 0 100 200 300",
+        "type": "Image"
+    },
+    {
+        "element_id": "fae29503cc29dff101a32ddc99bdcfa7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        202.1,
+                        1821.7
+                    ],
+                    [
+                        202.1,
+                        1844.8
+                    ],
+                    [
+                        1291.8,
+                        1844.8
+                    ],
+                    [
+                        1291.8,
+                        1821.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86509,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "Fig. 4. In\ufb02uence of parameter q in natural images: q \u00bc 0:5, q \u00bc 1:0 (classical entropic segmentation) and q \u00bc 3:0.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "c53a45c7eb31ec7b90510161c74a3adc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1335.9,
+                        195.4
+                    ],
+                    [
+                        1335.9,
+                        217.5
+                    ],
+                    [
+                        1380.2,
+                        217.5
+                    ],
+                    [
+                        1380.2,
+                        195.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 5
+        },
+        "text": "1063",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "4d25743feaa0366e2462940caf112b88",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        195.4
+                    ],
+                    [
+                        131.8,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        217.5
+                    ],
+                    [
+                        176.1,
+                        195.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "1064",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "eadf5a7ae06cea07dd2f75aed34cb4fc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        354.1,
+                        195.2
+                    ],
+                    [
+                        354.1,
+                        217.4
+                    ],
+                    [
+                        1166.7,
+                        217.4
+                    ],
+                    [
+                        1166.7,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.33859,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1c733bfa83661cefaca70d97e38686bc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        256.7
+                    ],
+                    [
+                        131.8,
+                        550.0
+                    ],
+                    [
+                        732.1,
+                        550.0
+                    ],
+                    [
+                        732.1,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95591,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "maximum values in each case. This \ufb01gure shows the behavior of the nonextensive entropic seg- mentation in all cases. Specially, in cases (b\u2013\u2013peak width), (c\u2013\u2013peak height) and (d\u2013\u2013noisy image) we observe a dependence of the segmentation result on the entropic parameter q. In the case \u2018\u2018a\u2013\u2013peak position\u2019\u2019 the nonextensive entropic segmentation method can be used as a classic entropic segmen- tation.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "74f19e98677a583eb53aa19f5828db52",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.0,
+                        256.7
+                    ],
+                    [
+                        795.0,
+                        550.0
+                    ],
+                    [
+                        1400.2,
+                        550.0
+                    ],
+                    [
+                        1400.2,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95444,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "image of a \ufb02ower with an inhomogeneous distri- bution of light around it, leading to an irregular histogram of two peaks. The nonextensive entro- pic method can be very useful in such applications where we de\ufb01ne a value for the parameter q to adjust the thresholding level to the correct point. In Fig. 4 we segment the image with q equal to 0.5, 1.0 and 3.0 respectively. With the latter we can cut the histogram in a more appropriate level.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ceb090b052b4d1a2bbe261c7d0b0efcd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        588.6
+                    ],
+                    [
+                        131.8,
+                        616.4
+                    ],
+                    [
+                        400.8,
+                        616.4
+                    ],
+                    [
+                        400.8,
+                        588.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.51876,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "4.2. Real image results",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "93bf607da7bc25f3ec810338dd4f27e7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        654.9
+                    ],
+                    [
+                        131.8,
+                        848.9
+                    ],
+                    [
+                        731.8,
+                        848.9
+                    ],
+                    [
+                        731.8,
+                        654.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95247,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "We have evaluated the proposed method with several real images, following the schemes pre- sented in the simulation section. Three of them were chosen to demonstrate the method. In Fig. 3 we show a mammography image with a bright region (tumor) surrounded by a noisy region.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b709b0cee9d2c647a3299c2da6d11352",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        854.5
+                    ],
+                    [
+                        131.8,
+                        1114.6
+                    ],
+                    [
+                        731.6,
+                        1114.6
+                    ],
+                    [
+                        731.6,
+                        854.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95591,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "The thresholding of this type of image is usually a very di\ufb03cult task. The histogram is almost an unimodal distribution of the gray level values. The entropic method will search for regions with uni- form distribution in order to \ufb01nd the maximum entropy. This will often happen at the peak limit. The entropic approach can give good results in these types of histograms. In Fig. 4 we show an",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3b85a798a8d07777638143ee1617c432",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        555.6
+                    ],
+                    [
+                        795.9,
+                        782.5
+                    ],
+                    [
+                        1399.2,
+                        782.5
+                    ],
+                    [
+                        1399.2,
+                        555.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95513,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "Fig. 5 shows a third example of nonextensive image segmentation. We present an image of a magnetic domain structure observed by optical microscopy with a spatial background scattering noise and its gray level histogram. Four results are presented for four q values. For q \u00bc 4:0 we obtain a more \u2018\u2018clean\u2019\u2019 segmentation.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "823e633dd0d11ba52e6d08056ffe259a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        795.9,
+                        821.1
+                    ],
+                    [
+                        795.9,
+                        882.0
+                    ],
+                    [
+                        1396.9,
+                        882.0
+                    ],
+                    [
+                        1396.9,
+                        821.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90829,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "4.3. The in\ufb02uence of parameter q in image segmen- tation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "faac18cbde6d1fca78fe7bc7ade3bf2f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        793.6,
+                        920.0
+                    ],
+                    [
+                        793.6,
+                        1114.6
+                    ],
+                    [
+                        1396.9,
+                        1114.6
+                    ],
+                    [
+                        1396.9,
+                        920.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95043,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "The parameter q in Tsallis entropy is usually interpreted as a quantity characterizing the degree of nonextensivity of a system. An appropriate choice of the entropic index q to nonextensive physical systems still remains an open \ufb01eld of study. In some cases the parameter q has no",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0bf46c37435fc9b6b7043eed554202b2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        249.9,
+                        1174.2
+                    ],
+                    [
+                        249.9,
+                        1769.0
+                    ],
+                    [
+                        1266.9,
+                        1769.0
+                    ],
+                    [
+                        1266.9,
+                        1174.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "q=1.0, t=151 * q=0.5, t=149 Histogram q=2.0, t=101 q=4.0, =93",
+        "type": "Image"
+    },
+    {
+        "element_id": "43d953c86b9b9b69602adbcd493d828e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        131.8,
+                        1794.1
+                    ],
+                    [
+                        131.8,
+                        1844.8
+                    ],
+                    [
+                        1394.6,
+                        1844.8
+                    ],
+                    [
+                        1394.6,
+                        1794.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89244,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 6
+        },
+        "text": "Fig. 5. Example of nonextensive entropic segmentation. Image of a magnetic domain structure with a regular spatial noise. Result of segmentation for q \u00bc 0:5, 1.0 (classical entropic segmentation), 2.0 and 4.0.",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "f29d2852de21c6614092905777ffc754",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        341.7,
+                        195.2
+                    ],
+                    [
+                        341.7,
+                        217.4
+                    ],
+                    [
+                        1235.3,
+                        217.4
+                    ],
+                    [
+                        1235.3,
+                        195.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.51562,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7
+        },
+        "text": "M. Portes de Albuquerque et al. / Pattern Recognition Letters 25 (2004) 1059\u20131065",
+        "type": "Header"
+    },
+    {
+        "element_id": "6106f9b4396dc5159dbb8146c324e717",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        256.7
+                    ],
+                    [
+                        118.1,
+                        450.5
+                    ],
+                    [
+                        725.4,
+                        450.5
+                    ],
+                    [
+                        725.4,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94545,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "f29d2852de21c6614092905777ffc754"
+        },
+        "text": "physical meaning, but it gives new possibilities in the agreement of theoretical models and experi- mental data, Tsallis and Albuquerque (2000). In other cases, q is solely determined by constraints of the problem and thereby q may have a physical meaning, Tatsuaki (2001).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "42cb2dc7eec8f19f8f53d8e573a0e782",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        256.7
+                    ],
+                    [
+                        782.4,
+                        350.8
+                    ],
+                    [
+                        1387.0,
+                        350.8
+                    ],
+                    [
+                        1387.0,
+                        256.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91165,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "f29d2852de21c6614092905777ffc754"
+        },
+        "text": "images. This can be an advantage when the image processing tasks depend on an automatic thres- holding.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b71870eb9427c3d414c81757c15dd08d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        422.0
+                    ],
+                    [
+                        782.4,
+                        449.7
+                    ],
+                    [
+                        1003.7,
+                        449.7
+                    ],
+                    [
+                        1003.7,
+                        422.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85052,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "f29d2852de21c6614092905777ffc754"
+        },
+        "text": "Acknowledgements",
+        "type": "Title"
+    },
+    {
+        "element_id": "25e3cd4b32ee35c0c0dcd92807fb6d81",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        118.1,
+                        455.9
+                    ],
+                    [
+                        118.1,
+                        683.0
+                    ],
+                    [
+                        722.1,
+                        683.0
+                    ],
+                    [
+                        722.1,
+                        455.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95274,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "b71870eb9427c3d414c81757c15dd08d"
+        },
+        "text": "In image segmentation, the nonextensivity of a system can be justi\ufb01ed by the presence of correla- tions between pixels of the same objectin the image. These correlations can be classi\ufb01ed as long-range correlations in the case of images that present pixels strongly correlated in luminance levels and space ful\ufb01lling.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca99aa61c1e325a453e82f1a105be11e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        488.3
+                    ],
+                    [
+                        782.4,
+                        649.3
+                    ],
+                    [
+                        1386.5,
+                        649.3
+                    ],
+                    [
+                        1386.5,
+                        488.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.943,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "b71870eb9427c3d414c81757c15dd08d"
+        },
+        "text": "The authors thank Professor C. Tsallis and F. Baldovin for the helpful discussion and support from the National Council for Scienti\ufb01c and Technological Development (CNPq) of the Bra- zilian Ministry of Science and Technology.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5dd359a3bd58bcc9e0d7e7e742cb7344",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        117.6,
+                        688.5
+                    ],
+                    [
+                        117.6,
+                        981.8
+                    ],
+                    [
+                        723.1,
+                        981.8
+                    ],
+                    [
+                        723.1,
+                        688.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95134,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "b71870eb9427c3d414c81757c15dd08d"
+        },
+        "text": "In the presented method we use positive values for q parameter and investigate the threshold level by visual inspection. As we are interested in automatic quantitative image analysis, threshold- ing \u2018\u2018objects\u2019\u2019 with the same entropy can be an important characteristic in the image processing chain when treating the same type of images. Nevertheless, there is no reliable evidence between the parameter q and image categories.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aa7bcecb0470742bff5de21f3714e84a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.3,
+                        719.9
+                    ],
+                    [
+                        782.3,
+                        749.0
+                    ],
+                    [
+                        910.0,
+                        749.0
+                    ],
+                    [
+                        910.0,
+                        719.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84347,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "f29d2852de21c6614092905777ffc754"
+        },
+        "text": "References",
+        "type": "Title"
+    },
+    {
+        "element_id": "197db1be2fcb11139c30b5d952795e2d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        780.9,
+                        785.1
+                    ],
+                    [
+                        780.9,
+                        863.5
+                    ],
+                    [
+                        1387.7,
+                        863.5
+                    ],
+                    [
+                        1387.7,
+                        785.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90548,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "aa7bcecb0470742bff5de21f3714e84a"
+        },
+        "text": "Abutaleb, A.S., 1989. Automatic thresholding of gray level pictures using two dimensional entropy. Comput. Vision Graphics Image Process. 47, 22\u201332.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "d78f56f303c8293a737809d7d707b37e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        777.9,
+                        868.1
+                    ],
+                    [
+                        777.9,
+                        974.2
+                    ],
+                    [
+                        1388.6,
+                        974.2
+                    ],
+                    [
+                        1388.6,
+                        868.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92567,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "aa7bcecb0470742bff5de21f3714e84a"
+        },
+        "text": "Kapur, J.N., Sahoo, P.K., Wong, A.K.C., 1985. A new method for gray-level picture thresholding using the entropy of the histogram. Comput. Vision Graphics Image Process. 29, 273\u2013285.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a09033031c42d6135cd2d311cfa1c6e8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        778.7,
+                        979.5
+                    ],
+                    [
+                        778.7,
+                        1029.7
+                    ],
+                    [
+                        1383.2,
+                        1029.7
+                    ],
+                    [
+                        1383.2,
+                        979.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9056,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "aa7bcecb0470742bff5de21f3714e84a"
+        },
+        "text": "Li, C.H., Lee, C.K., 1993. Minimum cross entropy threshold- ing. Pattern Recognition 26, 617\u2013625.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "ef7ba80576f2ce0e9e7d71c2f2676e45",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        116.9,
+                        1059.2
+                    ],
+                    [
+                        116.9,
+                        1086.9
+                    ],
+                    [
+                        286.4,
+                        1086.9
+                    ],
+                    [
+                        286.4,
+                        1059.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.853,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "f29d2852de21c6614092905777ffc754"
+        },
+        "text": "5. Conclusions",
+        "type": "Title"
+    },
+    {
+        "element_id": "998053d264f05db58f0cd2b2ab2fc961",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        779.0,
+                        1035.2
+                    ],
+                    [
+                        779.0,
+                        1084.9
+                    ],
+                    [
+                        1380.2,
+                        1084.9
+                    ],
+                    [
+                        1380.2,
+                        1035.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9009,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Pal, N.R., 1996. On minimum cross entropy thresholding. Pattern Recognition 29, 575\u2013580.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "e39c8127df7345dfe42f7d35a7ff618c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        116.0,
+                        1125.7
+                    ],
+                    [
+                        116.0,
+                        1586.8
+                    ],
+                    [
+                        719.8,
+                        1586.8
+                    ],
+                    [
+                        719.8,
+                        1125.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94636,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Nonextensive entropy image thresholding is a powerful technique for image segmentation. The presented method has been derived from the gen- eralized entropy concepts proposed by Tsallis. Entropic segmentation can give good results in many cases and works better when applied to noisy images, those in which gray level distribution are typically composed by an unimodal histogram. The advantage of the method is the use of a global and objective property of the histogram and this method is easily implemented. The Tsallis q coef- \ufb01cient can be used as an adjustable value and can play an important role as a tuning parameter in the image processing chain for the same class of",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "024174ca960ff75bd80b39d63ac8e10c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        780.5,
+                        1089.7
+                    ],
+                    [
+                        780.5,
+                        1140.4
+                    ],
+                    [
+                        1382.6,
+                        1140.4
+                    ],
+                    [
+                        1382.6,
+                        1089.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90732,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Pun, T., 1981. Entropic thresholding: A new approach. Comput. Graphics Image Process. 16, 210\u2013239.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3f9b73e590e1454a009120d789bbef17",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        782.4,
+                        1145.5
+                    ],
+                    [
+                        782.4,
+                        1195.6
+                    ],
+                    [
+                        1385.7,
+                        1195.6
+                    ],
+                    [
+                        1385.7,
+                        1145.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89742,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Rosin, P.L., 2001. Unimodal thresholding. Pattern Recognition 34, 2083\u20132096.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "583ebacfe9b0fc8391515fe87a814d08",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        778.0,
+                        1201.2
+                    ],
+                    [
+                        778.0,
+                        1251.1
+                    ],
+                    [
+                        1382.1,
+                        1251.1
+                    ],
+                    [
+                        1382.1,
+                        1201.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91019,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Sahoo, P.K., Soltani, S., Wong, A.K.C., 1988. Comput. Vision Graphics Image Process. 41, 233\u2013260.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "3cf70331ca270f0e7163f709d4e3f9bd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        774.1,
+                        1255.3
+                    ],
+                    [
+                        774.1,
+                        1306.4
+                    ],
+                    [
+                        1382.9,
+                        1306.4
+                    ],
+                    [
+                        1382.9,
+                        1255.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89874,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Tatsuaki, W., Takeshi, S., 2001. When nonextensive entropy becomes extensive. Physica A 301, 284\u2013290.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "061b7119dff1a9d806acd9c6c35ac642",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        778.9,
+                        1311.9
+                    ],
+                    [
+                        778.9,
+                        1444.8
+                    ],
+                    [
+                        1384.4,
+                        1444.8
+                    ],
+                    [
+                        1384.4,
+                        1311.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91717,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "links": [
+                {
+                    "start_index": 223,
+                    "text": "http :// tsallis .",
+                    "url": "http://tsallis.cat.cbpf.br/biblio.htm"
+                },
+                {
+                    "start_index": 239,
+                    "text": "cat . cbpf . br / biblio . htm",
+                    "url": "http://tsallis.cat.cbpf.br/biblio.htm"
+                }
+            ],
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Tsallis, C., 2001. In: Abe, S., Okamoto, Y. (Eds.), Nonextensive Statistical Mechanics and its Applications. In: Series Lecture Notes in Physics. Springer, Berlin (The bibliogra- phy of the subject is regularly updated at <http://tsallis. cat.cbpf.br/biblio.htm>).",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "f966f05546bf1c3666d35f6f106eba6c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        776.0,
+                        1450.4
+                    ],
+                    [
+                        776.0,
+                        1527.8
+                    ],
+                    [
+                        1383.7,
+                        1527.8
+                    ],
+                    [
+                        1383.7,
+                        1450.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92125,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Tsallis, C., Albuquerque, M.P., 2000. Are citations of scienti\ufb01c paper a case of nonextensivity? Euro. Phys. J. B 13, 777\u2013 780.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0459caca57506205eebecb9152ab2910",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        779.1,
+                        1532.9
+                    ],
+                    [
+                        779.1,
+                        1583.5
+                    ],
+                    [
+                        1380.3,
+                        1583.5
+                    ],
+                    [
+                        1380.3,
+                        1532.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90467,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7,
+            "parent_id": "ef7ba80576f2ce0e9e7d71c2f2676e45"
+        },
+        "text": "Yamano, T., 2001. Information theory based in nonadditive information content. Entropy 3, 280\u2013292.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "0e3d10a8d9572062639b5e7a80e29c67",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2064,
+                "layout_width": 1512,
+                "points": [
+                    [
+                        1335.9,
+                        193.9
+                    ],
+                    [
+                        1335.9,
+                        217.5
+                    ],
+                    [
+                        1380.9,
+                        217.5
+                    ],
+                    [
+                        1380.9,
+                        193.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.50085,
+            "file_directory": "/home/enzo/Desktop/riza/data/raw",
+            "filename": "Image thresholding using Tsallis entropy.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2025-02-28T08:41:27",
+            "page_number": 7
+        },
+        "text": "1065",
+        "type": "Header"
+    }
+]
