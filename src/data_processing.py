@@ -1,4 +1,3 @@
-
 import re
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.pipeline_options import PdfPipelineOptions
@@ -52,15 +51,21 @@ def chunk_text(markdown_text, chunk_size = 600, chunk_overlap = 100):
     return chunks
 
 
-def clean_and_filter_chunks(chunks, min_length = 50):
+def clean_and_filter_chunks(chunks, min_length=50):
     print("Iniciando limpeza e filtragem dos chunks...")
+    
     for chunk in chunks:
         content = chunk.page_content
-        content = re.sub(r'', '', content)
-        content = re.sub(r'/C\d+', '', content)
-        content = re.sub(r'\(\s*\)', '', content)
-        content = re.sub(r'\s+', ' ', content)
-        content = re.sub(r'\n\s*\n\s*\n+', '\n\n', content)
+        content = re.sub(r"<[^>]+>", "", content)
+        content = re.sub(r"<!-- image -->", "", content)
+        content = re.sub(r"<!--.*?-->", "", content, flags=re.DOTALL)
+
+        content = re.sub(r"/C\d+", "", content)
+        content = re.sub(r"\(\s*\)", "", content)
+
+        content = re.sub(r"\s+", " ", content)
+        content = re.sub(r"\n\s*\n\s*\n+", "\n\n", content)
+        
         chunk.page_content = content.strip()
     
     filtered_chunks = [c for c in chunks if len(c.page_content) > min_length]
@@ -68,8 +73,8 @@ def clean_and_filter_chunks(chunks, min_length = 50):
     return filtered_chunks
 
 
-def process_pdf_to_chunks(file_path):
+def process_pdf_to_chunks(file_path, chunk_size=600, chunk_overlap=100, min_length=50):
     markdown_text = load_and_convert_to_markdown(file_path)
-    intermediate_chunks = chunk_text(markdown_text)
-    final_chunks = clean_and_filter_chunks(intermediate_chunks)
+    intermediate_chunks = chunk_text(markdown_text, chunk_size, chunk_overlap)
+    final_chunks = clean_and_filter_chunks(intermediate_chunks, min_length)
     return final_chunks
