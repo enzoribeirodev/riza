@@ -1,3 +1,5 @@
 .env
 venv
 src/__pycache__/
+notebooks/chroma_db_test2
+data/processed/chroma_db
