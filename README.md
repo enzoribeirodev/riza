@@ -6,18 +6,17 @@ Uma solução genérica e modular para sistemas RAG (Retrieval Augmented Generat
 
 ## 📋 Índice
 
-- [Visão Geral](#-visão-geral)
-- [Arquitetura](#-arquitetura)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
-- [Stack Tecnológica](#-stack-tecnológica)
-- [Pipeline RAG](#-pipeline-rag)
-- [Decisões Técnicas](#-decisões-técnicas)
-- [Configuração Avançada](#-configuração-avançada)
-- [Próximos Passos](#-próximos-passos)
-- [Casos de Uso](#-casos-de-uso)
+- [Visão Geral](#visão-geral)
+- [Arquitetura](#arquitetura)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Instalação](#instalação)
+- [Como Usar](#como-usar)
+- [Stack Tecnológica](#stack-tecnológica)
+- [Pipeline RAG](#pipeline-rag)
+- [Decisões Técnicas](#decisões-técnicas)
+- [Configuração Avançada](#configuração-avançada)
+- [Próximos Passos](#próximos-passos)
 
 ---
 
@@ -156,7 +155,7 @@ riza/
 
 ---
 
-## ✨ Funcionalidades
+## 🔧 Funcionalidades
 
 ### Implementadas
 
@@ -482,12 +481,6 @@ def query_rag(qa_chain, question):
 ### 2. Por que ChromaDB?
 
 **Alternativas avaliadas:**
-- FAISS: Mais rápido, mas sem persistência nativa
-- Pinecone: Cloud-based, custo
-- Weaviate: Over-engineering para PoC
-- **ChromaDB**: Simples, local, persistente
-
-**Vantagens:**
 - Zero configuração
 - Persistência automática
 - Isolamento por collection
