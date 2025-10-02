@@ -6,17 +6,17 @@ Uma solução genérica e modular para sistemas RAG (Retrieval Augmented Generat
 
 ## 📋 Índice
 
-- [Visão Geral](#🎯-visão-geral)
-- [Arquitetura](#🏗️-arquitetura)
-- [Estrutura do Projeto](#📁-estrutura-do-projeto)
-- [Funcionalidades](#✨-funcionalidades)
-- [Instalação](#🚀-instalação)
-- [Como Usar](#💻-como-usar)
-- [Stack Tecnológica](#🛠️-stack-tecnológica)
-- [Pipeline RAG](#🔄-pipeline-rag)
-- [Decisões Técnicas](#🎯-decisões-técnicas)
-- [Configuração Avançada](#⚙️-configuração-avançada)
-- [Próximos Passos](#🚧-próximos-passos)
+- [Visão Geral](#-visão-geral)
+- [Arquitetura](#-arquitetura)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Instalação](#-instalação)
+- [Como Usar](#-como-usar)
+- [Stack Tecnológica](#-stack-tecnológica)
+- [Pipeline RAG](#-pipeline-rag)
+- [Decisões Técnicas](#-decisões-técnicas)
+- [Configuração Avançada](#-configuração-avançada)
+- [Próximos Passos](#-próximos-passos)
 
 ---
 
