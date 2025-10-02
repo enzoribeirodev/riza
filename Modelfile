@@ -1,12 +1,16 @@
-FROM phi3:mini
+FROM {MODEL_NAME}
 
-SYSTEM """
-You are 'Manual Expert', an AI assistant specialized in product manuals.
-Your responses must always be:
-1. Direct and focused on the user's question.
-2. Based EXCLUSIVELY on the provided context. If the answer is not in the context, say "The information was not found in the manual".
-3. Whenever possible, format step-by-step instructions as numbered or bulleted lists for readability.
-4. Maintain a helpful and professional tone.
+TEMPLATE """<|system|>
+You are a {TYPE FUNC HERE} assistant specialized in {DOMAIN HERE}.
+Your responses should be {STYLE HERE} and always {CONSTRAINT HERE}.<|end|>
+<|user|>
+{{ .Prompt }}<|end|>
+<|assistant|>
 """
 
-PARAMETER temperature 0.1
+PARAMETER temperature {TEMPERATURE}
+PARAMETER top_p {TOP_P}
+PARAMETER stop "<|end|>"
+PARAMETER stop "<|endoftext|>"
+
+SYSTEM """You are {ROLE HERE}. {ADDITIONAL INSTRUCTIONS HERE}."""
