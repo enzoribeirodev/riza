@@ -7,7 +7,7 @@ from langchain_core.documents import Document
 
 
 def load_and_convert_to_markdown(file_path):
-    print(f"Iniciando conversão do arquivo: {file_path}")
+    print(f"Starting conversion of file: {file_path}")
     pipeline_options = PdfPipelineOptions()
 
     converter = DocumentConverter(format_options={
@@ -16,12 +16,12 @@ def load_and_convert_to_markdown(file_path):
 
     result = converter.convert(file_path)
     markdown_text = result.document.export_to_markdown()
-    print("Conversão para Markdown concluída.")
+    print("Conversion to Markdown completed.")
     return markdown_text
 
 
 def chunk_text(markdown_text, chunk_size = 600, chunk_overlap = 100):
-    print("Iniciando o processo de chunking híbrido...")
+    print("Starting hybrid chunking process...")
     headers_to_split_on = [("##", "Header 2"), ("###", "Header 3")]
     markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers_to_split_on)
     md_header_splits = markdown_splitter.split_text(markdown_text)
@@ -47,12 +47,12 @@ def chunk_text(markdown_text, chunk_size = 600, chunk_overlap = 100):
             chunks.extend(sub_chunks)
         else:
             chunks.append(split)
-    print(f"Chunking concluído. {len(chunks)} chunks intermediários gerados.")
+    print(f"Chunking completed. {len(chunks)} intermediate chunks generated.")
     return chunks
 
 
 def clean_and_filter_chunks(chunks, min_length=50):
-    print("Iniciando limpeza e filtragem dos chunks...")
+    print("Starting cleaning and filtering of chunks...")
     
     for chunk in chunks:
         content = chunk.page_content
@@ -69,7 +69,7 @@ def clean_and_filter_chunks(chunks, min_length=50):
         chunk.page_content = content.strip()
     
     filtered_chunks = [c for c in chunks if len(c.page_content) > min_length]
-    print(f"Limpeza concluída. {len(filtered_chunks)} chunks finais restantes.")
+    print(f"Cleaning completed. {len(filtered_chunks)} final chunks remaining.")
     return filtered_chunks
 
 
