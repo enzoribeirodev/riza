@@ -377,7 +377,7 @@ print(response["source_documents"])
 
 **LLM (APIs):**
 - OpenAI: GPT-3.5, GPT-4, GPT-4o
-- Google: Gemini Pro, Gemini 1.5 Flash/Pro
+- Google: 2.5 Flash/Pro
 
 ---
 
@@ -480,7 +480,6 @@ def query_rag(qa_chain, question):
 
 ### 2. Por que ChromaDB?
 
-**Alternativas avaliadas:**
 - Zero configuração
 - Persistência automática
 - Isolamento por collection
